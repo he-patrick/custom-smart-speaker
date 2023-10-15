@@ -1,6 +1,6 @@
 ![corgAI](image1.png)
 
-This project was submitted to Hack the Valley 8.
+This project was submitted to Hack the Valley 8. Check out the [Devpost!](https://devpost.com/software/corgai)
 
 ## What it does
 corgAI is a little corgi stuffy that will listen when you wave to it, and then respond to the query. Designed for kids, corgAI is always there to listen, and exists to inspire curiosity in children everywhere. 
