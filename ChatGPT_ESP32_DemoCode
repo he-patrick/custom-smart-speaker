@@ -5,9 +5,9 @@
 #include <HTTPClient.h>
 #include <ArduinoJson.h>
 
-const char* ssid = "Patrick's iPhone";
-const char* password = "ilikekiwi";
-const char* chatgpt_token = "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";
+const char* ssid = "YOUR_SSID";
+const char* password = "PASSWORD";
+const char* chatgpt_token = "CHATGPT_API_KEY";
 String res = "";
 void setup() {
   Serial.begin(115200);
