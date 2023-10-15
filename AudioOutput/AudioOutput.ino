@@ -6,9 +6,9 @@
 #include <ArduinoJson.h>
 #include "Audio.h"
 
-const char* ssid = "Patrick's iPhone";
-const char* password = "ilikekiwi";
-const char* chatgpt_token = "CHATGPT_API_KEY";
+const char* ssid = "";
+const char* password = "";
+const char* chatgpt_token = "";
 const char* temperature = "0";
 const char* max_tokens = "50";
 String Question = "";
